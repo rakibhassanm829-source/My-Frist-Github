@@ -1,0 +1,10 @@
+# one time each project to git
+
+git init
+
+# every time to add
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rakibhassanm829-source/My-Frist-Github.git
+git push -u origin main
